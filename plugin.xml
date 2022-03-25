@@ -21,7 +21,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     <preference name="APP_DOMAIN_NAME" default="firebase_domain_url_prefix"/>
     <preference name="APP_DOMAIN_PATH" default="/" />
 
-    <dependency id="cordova-plugin-firebase-analytics" url="https://github.com/OutSystems/cordova-plugin-firebase-analytics.git#5.0.0-OS2"/>
+    <dependency id="cordova-plugin-firebase-analytics" url="https://github.com/Personal-Group/cordova-plugin-firebase-analytics.git#5.0.0-OS2-PG1"/>
 
     <platform name="android">
 
